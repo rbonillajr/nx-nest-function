@@ -1,0 +1,17 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "apps",
+  "monorepo": true,
+  "root": "apps/handler1",
+  "projects":{
+    "handler1": {
+      "type": "application",
+      "root": "apps/handler1",
+      "entryFile": "main",
+      "sourceRoot": "apps/handler1/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/handler1/tsconfig.app.json"
+      }
+    }
+  }
+}
