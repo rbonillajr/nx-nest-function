@@ -38,6 +38,7 @@
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
     "@nrwl/cli": "12.7.0",
+    "@nrwl/devkit": "12.7.0",
     "@nrwl/eslint-plugin-nx": "12.7.0",
     "@nrwl/jest": "12.7.0",
     "@nrwl/linter": "12.7.0",
