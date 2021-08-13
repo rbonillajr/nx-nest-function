@@ -11,7 +11,7 @@
           "outputs": ["{options.outputPath}"],
           "options": {
             "outputPath": "dist/apps/handler1",
-            "main": "apps/handler1/src/main.ts",
+            "main": "apps/handler1/src/main.azure.ts",
             "tsConfig": "apps/handler1/tsconfig.app.json",
             "assets": ["apps/handler1/src/assets"]
           },
